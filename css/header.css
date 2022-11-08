@@ -1,0 +1,9 @@
+.header {
+  border: solid 1px #ffffff;
+  min-height: 150px;
+}
+
+.imagem-header {
+  width: 100%;
+  height: 350px;
+}

@@ -1,0 +1,23 @@
+.footer {
+  border: solid 1px var(--branco);
+  background-color: var(--rosa-claro-background);
+  min-height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-imagem {
+  width: 50px;
+}
+
+.footer-texto {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--rosa-texto);
+}
+
+.footer-dados {
+  font-size: 14px;
+  color: var(--rosa-texto);
+}

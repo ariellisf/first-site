@@ -1,0 +1,27 @@
+.menu {
+  border: solid 1px var(--branco);
+  width: 15%;
+  background-color: var(--rosa-background);
+  padding: 10px 10px 0px;
+}
+
+.menu-imagem {
+  width: 100%;
+}
+
+.menu-item {
+  list-style: none;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.menu-item:first-child {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: var(--rosa-titulo);
+  font-size: 18px;
+}
