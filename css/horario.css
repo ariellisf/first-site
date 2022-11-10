@@ -1,0 +1,18 @@
+.tabela {
+  text-align: center;
+}
+table {
+  border-spacing: 0px;
+  margin-top: 50px;
+}
+
+td,
+th {
+  color: var(--rosa-titulo);
+  border: 1px solid var(--rosa-background);
+  padding: 8px 15px;
+}
+
+.linha-titulo {
+  background-color: var(--rosa-claro-background);
+}
