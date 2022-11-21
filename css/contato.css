@@ -1,0 +1,33 @@
+.contato-lista {
+  margin: 2em;
+}
+.contato-item {
+  font-size: 18px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+.formulario-titulo {
+  color: var(--rosa-titulo);
+  font-size: 18px;
+}
+
+.formulario-campo,
+.formulario-enviar,
+.formulario-limpar {
+  width: 15em;
+}
+
+.formulario-campo-texto {
+  width: 30em;
+  height: 10em;
+}
+
+.formulario-enviar,
+.formulario-limpar {
+  margin-top: 1em;
+  background-color: var(--rosa-background);
+}

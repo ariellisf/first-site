@@ -10,7 +10,7 @@ td,
 th {
   color: var(--rosa-titulo);
   border: 1px solid var(--rosa-background);
-  padding: 8px 15px;
+  padding: 1em 2em;
 }
 
 .linha-titulo {

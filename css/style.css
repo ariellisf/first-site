@@ -3,6 +3,7 @@
 @import url(./footer.css);
 @import url(./principal.css);
 @import url(./horario.css);
+@import url(./contato.css);
 
 :root {
   --branco: #ffffff;
@@ -39,5 +40,5 @@ body {
   border: solid 1px var(--rosa-background);
   background-color: white;
   min-height: 300px;
-  padding: 40px;
+  padding: 3em;
 }

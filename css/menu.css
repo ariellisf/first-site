@@ -11,8 +11,8 @@
 
 .menu-item {
   list-style: none;
-  padding-bottom: 5px;
-  margin-bottom: 10px;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 .menu-item:first-child {
